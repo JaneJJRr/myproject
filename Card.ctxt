@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=
+comment1.target=int\ getCurrentIndex()
+comment2.params=
+comment2.target=void\ nextCard()
+comment3.params=
+comment3.target=java.lang.String\ getCurrentSuit()
+comment4.params=
+comment4.target=java.lang.String\ getCurrentRank()
+comment5.params=
+comment5.target=int[]\ getDeck()
+comment6.params=index
+comment6.target=int\ getCard(int)
+comment7.params=
+comment7.target=Card()
+comment8.params=
+comment8.target=void\ shuffle()
+comment9.params=pCount
+comment9.target=void\ shuffle(int)
+numComments=10
