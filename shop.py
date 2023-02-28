@@ -2,7 +2,6 @@ from tkinter import *
 
 def mainwindow() :
     root = Tk()
-    root.title("GUI4: Class Activity of Week4")
     root.geometry("600x650")
     root.configure(bg='lightgreen')
     root.rowconfigure((0,2),weight=1)
